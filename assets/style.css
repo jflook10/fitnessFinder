@@ -1,0 +1,48 @@
+
+/*  header area  ---------------------------------------------------  */
+.jumbotron{
+    border-radius: 10px 10px 10px 10px;
+    background-color: #55A7E0;
+    color: white;
+    text-align: center;
+    padding: 0px;
+    
+}
+
+.headerImg{
+/*    background-image: url('headerImg.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: #55A7E0;*/
+}
+
+
+
+
+/*  main area --------------------------------------------------------  */
+section {
+    margin-top: 30px;
+    border: 2px solid #55A7E0; 
+    border-radius: 10px 10px 10px 10px;
+}
+
+.headers {    
+    color: white;
+    background-color: #55A7E0;
+    border-radius: 7px 7px 0px 0px;
+    font-size: 18px;
+}
+
+#employee-table{
+    margin-top: 10px;
+}
+#name-text{
+    margin-top: 10px;
+}
+#search-button{
+    margin-bottom: 20px;
+}
+
+button:hover {
+    background-color: #575594;
+}
